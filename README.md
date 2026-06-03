@@ -25,6 +25,14 @@ I'm passionate about learning and applying data-driven technologies to solve rea
 * Exploring Machine Learning algorithms
 * Working on hands-on data science projects
 
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyushtungre0805)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PiyushTungre)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/piyush_tungre)
+
 ## ✨ Quote
 
 > "Learning never exhausts the mind. Every line of code is a step toward innovation."
